@@ -1,1 +1,0 @@
-gcc prout.c -o prout.exe `sdl-config --cflags --libs`
